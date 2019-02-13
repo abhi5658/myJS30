@@ -1,0 +1,11 @@
+01 JS Drum Kit
+	-window event listener : keydown
+	-keydown event -> keyCode
+	-querySelector('string') : to find the tag or attribute first appearing
+	-object.classList : list of css classes of the object, can add/remove classes to the object. Object may contain document.element or any other <p> element or anything.
+	-querySelectorAll used to return all occurences with the string mentioned
+
+	-CSS
+		-tranform : inc/dec size
+		*box-shadow: to place the shadow of box: to left or right, blur, spread, offset.
+		*transition: time in seconds in which if a specified property is changed, takes that much time.[ https://www.w3schools.com/cssref/css3_pr_transition.asp ] : all means any change.
